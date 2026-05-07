@@ -37,4 +37,5 @@ Use these commands to interact with your list:
 ### 💻 Behind the Scenes
 I built this using:
 * **C# / .NET** — Core logic.
-* **System.Text.Json** — For saving and reading the
+* **System.Text.Json** — For saving and reading the task database.
+* **CLI Arguments** — To handle user commands directly from the terminal.
